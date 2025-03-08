@@ -22,7 +22,7 @@ repository               : "MohamedNagyMostafa/mohamednagy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"mohamednagy_profile.jpeg"
+  avatar           : "mohamednagy_profile.jpeg"
   name             : "Mohamed Nagy Mostafa"
   pronouns         : # example: "he/his"  
   bio              : "Doctoral Candidate"
@@ -47,7 +47,7 @@ author:
   dribbble         : # Username
   github           : "https://github.com/MohamedNagyMostafa"
   kaggle           : # Username  
-  StackOverflow    : ""https://stackoverflow.com/users/5893006/mohamed-nagy-mostafa
+  StackOverflow    : "https://stackoverflow.com/users/5893006/mohamed-nagy-mostafa"
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
