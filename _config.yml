@@ -28,7 +28,7 @@ author:
   bio              : "Doctoral Candidate"
   location         : "Abu Dhabi, UAE"
   employer         : "Khalifa University"
-  uri              : https://www.ku.ac.ae/
+  URI              : "https://www.ku.ac.ae/"
   email            : "mohamed.nagy@ieee.org" 
 
   # Academic websites
