@@ -1,11 +1,120 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Your Name - Academic Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Biography
+Welcome to my academic portfolio! I am a passionate researcher in [Your Field of Study], specializing in [Your Specialization]. With a strong background in [Your Expertise], I strive to contribute to the advancement of knowledge through innovative research and collaboration. My work has been published in leading journals and presented at international conferences. I am currently [Your Current Position] at [Your Current Institution], where I focus on [Your Current Research Focus].
+
+---
+
+## Academic Affiliations
+Below are the academic institutions I have been affiliated with:
+
+<div class="institution-logos">
+  <img src="/assets/images/institution1-logo.png" alt="Institution 1 Logo" class="logo">
+  <img src="/assets/images/institution2-logo.png" alt="Institution 2 Logo" class="logo">
+</div>
+
+---
+
+## Professional Experience
+Below are the companies and organizations I have worked with:
+
+<div class="company-logos">
+  <img src="/assets/images/company1-logo.png" alt="Company 1 Logo" class="logo">
+  <img src="/assets/images/company2-logo.png" alt="Company 2 Logo" class="logo">
+</div>
+
+---
+
+## News
+Stay updated with the latest news about my research and activities:
+
+### New Research Publication
+**Title:** "Advancing [Your Field] Through [Your Research Topic]"  
+**Date:** October 10, 2023  
+**Summary:** Our latest research on [Your Research Topic] has been published in [Journal Name]. This study explores [Brief Description of Research].  
+**Image:**  
+![Research Image](/assets/images/research-image.jpg)
+
+### Conference Presentation
+**Title:** "Presenting at [Conference Name]"  
+**Date:** September 25, 2023  
+**Summary:** I presented our work on [Your Presentation Topic] at [Conference Name], held in [Location]. The presentation was well-received, and I had the opportunity to connect with fellow researchers in the field.  
+
+### Award Received
+**Title:** "Best Paper Award at [Conference Name]"  
+**Date:** August 15, 2023  
+**Summary:** I am honored to have received the Best Paper Award at [Conference Name] for our work on [Your Research Topic]. This recognition highlights the impact of our research on [Your Field].  
+
+---
+
+### Research Interests
+- **Interest 1:** [Brief Description]
+- **Interest 2:** [Brief Description]
+- **Interest 3:** [Brief Description]
+
+
+---
+
+## Contact
+Feel free to reach out to me for collaborations, discussions, or inquiries:  
+- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
+- **Twitter:** [Your Twitter Profile](https://twitter.com/yourusername)  
+
+---
+
+## CSS for Logos and Layout
+Add the following CSS to your `_sass/minimal-mistakes/_custom.scss` file to style the logos and layout:
+
+```scss
+// Custom Styles for Logos
+.institution-logos, .company-logos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.logo {
+  max-width: 150px;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.logo:hover {
+  transform: scale(1.1);
+}
+
+// News Section Styles
+.news-item {
+  margin-bottom: 30px;
+}
+
+.news-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.news-item h3 {
+  margin-bottom: 10px;
+  color: #2c3e50;
+}
+
+.news-item p {
+  font-size: 1em;
+  line-height: 1.6;
+  color: #555;
+}
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
