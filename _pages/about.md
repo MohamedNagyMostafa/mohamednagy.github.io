@@ -16,11 +16,11 @@ Mohamed thrives on dissecting complex problems—bridging theory and practice—
 ## Academic Affiliations
 Below are the academic institutions I have joined:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 60px; margin: 40px 0; padding: 20px 0;">
-  <img src="/images/ku.jpg" alt="Khalifa University" style="width: 100px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8;"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="/images/eth.jpg" alt="ETH Zurich" style="width: 150px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8;">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="/images/helwan.png" alt="Helwan University" style="width: 100px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8;">
-</div>
+<p align="center">
+  <img src="/images/ku.jpg" width="100">
+  <img src="/images/eth.jpg" width="150">
+  <img src="/images/helwan.png" width="100">
+</p>
 <p style="text-align: center; color: #666; font-size: 0.9em; margin-top: -15px; margin-bottom: 40px; font-style: italic;">Prestigious academic institutions I've been privileged to collaborate with</p>
 
 ---
@@ -28,11 +28,11 @@ Below are the academic institutions I have joined:
 ## Professional Experience
 Below are the companies and organizations I have worked with:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 60px; margin: 40px 0; padding: 20px 0;">
-  <img src="/images/udacity.png" alt="Udacity" style="width: 100px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8; padding: 10px; background: rgba(255, 255, 255, 0.9); border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="/images/google.webp" alt="Google" style="width: 150px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8; padding: 10px; background: rgba(255, 255, 255, 0.9); border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="/images/arabs.jpg" alt="One Million Arabs Coder" style="width: 150px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8; padding: 10px; background: rgba(255, 255, 255, 0.9); border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-</div>
+<p align="center">
+  <img src="/images/udacity.png" width="100">
+  <img src="/images/google.webp" width="150">
+  <img src="/images/arabs.jpg" width="100">
+</p>
 <p style="text-align: center; color: #666; font-size: 0.9em; margin-top: -15px; margin-bottom: 40px; font-style: italic;">Innovative companies and initiatives I've contributed to</p>
 
 ---
