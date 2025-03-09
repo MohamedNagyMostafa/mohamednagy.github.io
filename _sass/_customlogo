@@ -1,0 +1,60 @@
+// Custom Styles for Logos
+.institution-logos, .company-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin: 40px 0;
+  padding: 20px 0;
+}
+
+.logo {
+  width: 120px;  // Fixed width for consistency
+  height: auto;  // Maintain aspect ratio
+  object-fit: contain;  // Prevent stretching
+  transition: all 0.3s ease;
+  filter: grayscale(100%);  // Professional monochrome effect
+  opacity: 0.8;
+}
+
+.logo:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+// Different sizing for company logos
+.company-logos .logo {
+  width: 140px;  // Slightly larger for company logos
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.9);  // White background for colored logos
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .institution-logos, .company-logos {
+    gap: 20px;
+  }
+  
+  .logo {
+    width: 100px;
+  }
+  
+  .company-logos .logo {
+    width: 120px;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo {
+    width: 80px;
+  }
+  
+  .company-logos .logo {
+    width: 100px;
+  }
+}
