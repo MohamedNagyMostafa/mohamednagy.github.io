@@ -16,22 +16,24 @@ Mohamed thrives on dissecting complex problems—bridging theory and practice—
 ## Academic Affiliations
 Below are the academic institutions I have joined:
 
-<div class="institution-logos">
-  <img src="/images/ku.jpg" alt="Khalifa University" class="logo">
-  <img src="/images/eth.jpg" alt="ETH Zuirch" class="logo">
-  <img src="/images/helwan.png" alt="Helwan University" class="logo">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 60px; margin: 40px 0; padding: 20px 0;">
+  <img src="/images/ku.jpg" alt="Khalifa University" style="width: 100px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8;"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="/images/eth.jpg" alt="ETH Zurich" style="width: 150px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8;">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="/images/helwan.png" alt="Helwan University" style="width: 100px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8;">
 </div>
+<p style="text-align: center; color: #666; font-size: 0.9em; margin-top: -15px; margin-bottom: 40px; font-style: italic;">Prestigious academic institutions I've been privileged to collaborate with</p>
 
 ---
 
 ## Professional Experience
 Below are the companies and organizations I have worked with:
 
-<div class="company-logos">
-  <img src="/images/udacity.png" alt="Udacity" class="logo">
-  <img src="/images/google.webp" alt="Google" class="logo">
-  <img src="/images/arabs logo.jpg" alt="One Million Arabs Coder" class="logo">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 60px; margin: 40px 0; padding: 20px 0;">
+  <img src="/images/udacity.png" alt="Udacity" style="width: 100px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8; padding: 10px; background: rgba(255, 255, 255, 0.9); border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="/images/google.webp" alt="Google" style="width: 150px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8; padding: 10px; background: rgba(255, 255, 255, 0.9); border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="/images/arabs.jpg" alt="One Million Arabs Coder" style="width: 150px; height: auto; object-fit: contain; transition: all 0.3s ease; filter: grayscale(100%); opacity: 0.8; padding: 10px; background: rgba(255, 255, 255, 0.9); border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
 </div>
+<p style="text-align: center; color: #666; font-size: 0.9em; margin-top: -15px; margin-bottom: 40px; font-style: italic;">Innovative companies and initiatives I've contributed to</p>
 
 ---
 
@@ -74,50 +76,7 @@ Feel free to reach out to me for collaborations, discussions, or inquiries:
 
 ---
 
-## CSS for Logos and Layout
-Add the following CSS to your `_sass/minimal-mistakes/_custom.scss` file to style the logos and layout:
 
-```scss
-// Custom Styles for Logos
-.institution-logos, .company-logos {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  margin: 20px 0;
-}
-
-.logo {
-  max-width: 150px;
-  height: auto;
-  transition: transform 0.3s ease;
-}
-
-.logo:hover {
-  transform: scale(1.1);
-}
-
-// News Section Styles
-.news-item {
-  margin-bottom: 30px;
-}
-
-.news-item img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-  margin-top: 10px;
-}
-
-.news-item h3 {
-  margin-bottom: 10px;
-  color: #2c3e50;
-}
-
-.news-item p {
-  font-size: 1em;
-  line-height: 1.6;
-  color: #555;
-}
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
