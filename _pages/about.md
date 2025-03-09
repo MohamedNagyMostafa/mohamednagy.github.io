@@ -15,7 +15,7 @@ Mohamed thrives on dissecting complex problems—bridging theory and practice—
 
 ## Academic Affiliations
 Below are the academic institutions I have joined:
-
+![alt text](ku.jpg "Title")
 <p align="center">
   <img src="/ku.jpg" width="100">
   <img src="/eth.jpg" width="150">
