@@ -17,9 +17,9 @@ Mohamed thrives on dissecting complex problems—bridging theory and practice—
 Below are the academic institutions I have joined:
 
 <p align="center">
-  <img src="/images/ku.jpg" width="100">
-  <img src="/images/eth.jpg" width="150">
-  <img src="/images/helwan.png" width="100">
+  <img src="../images/ku.jpg" width="100">
+  <img src="../images/eth.jpg" width="150">
+  <img src="../images/helwan.png" width="100">
 </p>
 <p style="text-align: center; color: #666; font-size: 0.9em; margin-top: -15px; margin-bottom: 40px; font-style: italic;">Prestigious academic institutions I've been privileged to collaborate with</p>
 
@@ -29,9 +29,9 @@ Below are the academic institutions I have joined:
 Below are the companies and organizations I have worked with:
 
 <p align="center">
-  <img src="/images/udacity.png" width="100">
-  <img src="/images/google.webp" width="150">
-  <img src="/images/arabs.jpg" width="100">
+  <img src="../images/udacity.png" width="100">
+  <img src="../images/google.webp" width="150">
+  <img src="../images/arabs.jpg" width="100">
 </p>
 <p style="text-align: center; color: #666; font-size: 0.9em; margin-top: -15px; margin-bottom: 40px; font-style: italic;">Innovative companies and initiatives I've contributed to</p>
 
