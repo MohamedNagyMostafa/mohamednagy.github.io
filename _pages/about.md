@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Your Name - Academic Portfolio"
+title: "Mohamed Nagy Mostafa"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,16 +8,18 @@ redirect_from:
 ---
 
 ## Biography
-Welcome to my academic portfolio! I am a passionate researcher in [Your Field of Study], specializing in [Your Specialization]. With a strong background in [Your Expertise], I strive to contribute to the advancement of knowledge through innovative research and collaboration. My work has been published in leading journals and presented at international conferences. I am currently [Your Current Position] at [Your Current Institution], where I focus on [Your Current Research Focus].
+Mohamed Nagy is an Electrical and Computer Engineering doctoral candidate at Khalifa University, advancing state estimation, localization, and appearance understanding to solve object-tracking challenges like occlusion. His work critically identifies gaps in autonomous systems and proposes novel theoretical-practical solutions, recognized for blending creativity with analytical rigor. Beyond research, he extends his expertise through robotics competitions and joining institutions like ETH Zurich, developing end-to-end software for autonomous robots.
+Mohamed thrives on dissecting complex problems—bridging theory and practice—and values solutions rooted in critical thinking and intensive analysis. Dedicated to lifelong learning and collaboration, he prioritizes research with tangible, real-world impact.
 
 ---
 
 ## Academic Affiliations
-Below are the academic institutions I have been affiliated with:
+Below are the academic institutions I have joined:
 
 <div class="institution-logos">
-  <img src="/assets/images/institution1-logo.png" alt="Institution 1 Logo" class="logo">
-  <img src="/assets/images/institution2-logo.png" alt="Institution 2 Logo" class="logo">
+  <img src="/images/ku.jpg" alt="Khalifa University" class="logo">
+  <img src="/images/eth.jpg" alt="ETH Zuirch" class="logo">
+  <img src="/images/helwan.png" alt="Helwan University" class="logo">
 </div>
 
 ---
@@ -26,8 +28,9 @@ Below are the academic institutions I have been affiliated with:
 Below are the companies and organizations I have worked with:
 
 <div class="company-logos">
-  <img src="/assets/images/company1-logo.png" alt="Company 1 Logo" class="logo">
-  <img src="/assets/images/company2-logo.png" alt="Company 2 Logo" class="logo">
+  <img src="/images/udacity.png" alt="Udacity" class="logo">
+  <img src="/images/google.webp" alt="Google" class="logo">
+  <img src="/images/arabs logo.jpg" alt="One Million Arabs Coder" class="logo">
 </div>
 
 ---
